@@ -1,6 +1,6 @@
 # CTEC608 Unity Ball Test
 
-Testing out unity and learning how to write C#. Use WASD to move around and do whatever
+Testing out unity and learning how to write C#. Use WASD to move around. Originally from [Unity Tutorials](https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial)
 
 
 ##Setup Instructions
