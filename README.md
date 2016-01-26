@@ -7,7 +7,7 @@ Testing out unity and learning how to write C#. Use WASD to move around. Origina
 
 1.  Make sure you have [unity](https://unity3d.com/) installed
 2.  Navigate to `Assets/_Scenes/Minigame.unity`
-3.  use WASD to move
+3.  Run the scene and use WASD to move
 
 
 ## Licence
